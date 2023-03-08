@@ -1,4 +1,6 @@
 # Dashboard Traffic Monitoring Kota Depok
+## Report
+https://www.canva.com/design/DAFcnpkFay0/b4qR77IQbdCYk6cNyZdr5g/edit?utm_content=DAFcnpkFay0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ![Screenshot (2695)](https://user-images.githubusercontent.com/96030714/221389100-796dfdd6-4c10-48e1-9810-dada83c9b096.png)
 
 ## Alasan memilih chart
